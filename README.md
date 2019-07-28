@@ -10,7 +10,7 @@ Mohammad Taleb .
 Hadeel Fleifel .
 
 Abstract : 
-The objective of this project is to design website for organize your days and life.
+The objective of this project is to help you be as successful and productive as possible.
 Mainly, this application developed to help every one on the internet.
 
 Overview:
